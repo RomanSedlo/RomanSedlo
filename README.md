@@ -2,7 +2,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,lua,blender,ableton,gamemakerstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,lua,blender,ableton,gamemakerstudio&theme=dark)](https://skillicons.dev)
 
 ###
 
