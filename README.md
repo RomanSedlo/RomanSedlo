@@ -1,4 +1,6 @@
-<p align="left" font="arial">HelloWorld("print")</p>
+ ```python
+HelloWorld("print")
+ ```
 
 ###
 
