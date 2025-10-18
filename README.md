@@ -26,7 +26,7 @@ HelloWorld("print")
 - 💞️ I’m looking to collaborate with Sticks film crew
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Mám Ocenění z Českého celorepublikového kola Hudební olympiády ZUŠ OPEN 2024 za za přirozenost provedení ve zpěvu a za vystižení mimohudebního obsahu ve vlastní skladbě
+- ⚡ Fun fact: Mám Ocenění z Českého celorepublikového kola Hudební olympiády Studentské poroty 2024 za za přirozenost provedení ve zpěvu a za vystižení mimohudebního obsahu ve vlastní skladbě
 
 
 <!---
