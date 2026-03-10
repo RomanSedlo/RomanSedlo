@@ -16,7 +16,7 @@ HelloWorld("print")
 - 👋 Hi, I’m @RomanSedlo
 - 👀 I’m interested in Coding, Music composing, Video editing, 3D design
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate with Sticks film crew
+- 💞️ I’m looking to collaborate with Sticks film crew or CG5
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Mám Ocenění z Českého celorepublikového kola Hudební olympiády Studentské poroty 2024 za za přirozenost provedení ve zpěvu a za vystižení mimohudebního obsahu ve vlastní skladbě
