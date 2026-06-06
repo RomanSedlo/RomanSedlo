@@ -19,7 +19,7 @@ HelloWorld("print")
 
 
 - 👋 Hi, I’m @RomanSedlo
-- 👀 I’m interested in Coding, Music composing, Video editing, 3D design
+- 👀 I’m interested in Coding, Marketing & Psychology, Music composing, Video editing, 3D design
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate with Sticks film crew or CG5
 - 📫 How to reach me ...
