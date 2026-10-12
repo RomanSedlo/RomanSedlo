@@ -4,7 +4,7 @@ HelloWorld("print")
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,figma,blender,ableton,dotnet,react,csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,figma,blender,ableton,dotnet,react,c#)](https://skillicons.dev)
 
 ###
 
