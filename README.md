@@ -6,7 +6,13 @@ HelloWorld("print")
 
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,figma,blender,ableton,dotnet,react,cs)](https://skillicons.dev)
 
-[![RomanSedlo's GitHub stats](https://github-stats-extended.vercel.app/api?username=RomanSedlo)](https://github.com/stats-organization/github-stats-extended)
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RomanSedlo&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomanSedlo&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
 ###
 
 
