@@ -1,10 +1,10 @@
- ```python
+ ```typescript
 HelloWorld("print")
  ```
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,figma,blender,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,figma,blender,ableton,dotnet)](https://skillicons.dev)
 
 ###
 
@@ -20,12 +20,9 @@ HelloWorld("print")
 
 - 👋 Hi, I’m @RomanSedlo
 - 👀 I’m interested in Coding, Marketing & Psychology, Music composing, Video editing, 3D design
-- 🌱 I’m currently learning TypeScript
+- ☁︎ My dream is to become a Movie Creative Director
+- 🌱 I’m currently learning React, ASP.NET, C# and i am pretty skilled at TypeScript, HTML and CSS
 - 💞️ I’m looking to collaborate with Sticks film crew or CG5
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Mám Ocenění z Českého celorepublikového kola Hudební olympiády Studentské poroty 2024 za za přirozenost provedení ve zpěvu a za vystižení mimohudebního obsahu ve vlastní skladbě
-
 
 <!---
 RomanSedlo/RomanSedlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
