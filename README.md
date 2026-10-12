@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RomanSedlo&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RomanSedlo&langs_count=7&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomanSedlo&langs_count=4&theme=light_github" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomanSedlo&langs_count=7&theme=light_github" alt="Top Langs" />
   </picture>
